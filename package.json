@@ -1,0 +1,20 @@
+{
+  "name": "wallet-bitcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^5.0.0-rc.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.7",
+    "qrcode": "^1.5.4",
+    "sharp": "^0.34.2",
+    "tiny-secp256k1": "^2.2.4"
+  }
+}
